@@ -1,0 +1,5 @@
+feedparser
+pandas
+scikit-learn
+wordcloud
+matplotlib
